@@ -1,0 +1,250 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hiroaki Shiokawa, Ph.D</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+  </head>
+
+  <body>
+    <header class="container">
+      <p class="row text-right"><a href="index.html">Japanese</a> | English</p>
+    </header>
+    
+    <section>
+      <div class="container">
+	<div class="row">
+	  <h1>Hiroaki Shiokawa, Ph.D</h1>
+	  <hr>
+	  <div class="col-sm-7 col-md-7">
+	    <p>
+	      Hiroaki Shiokawa is an Associate Professor at <a href="https://www.tsukuba.ac.jp/english/">University of Tsukuba</a>. 
+	      He received B.S. in information science, M.E, and Ph.D in engineering from University of Tsukuba under the supervision of <a href="http://www.kde.cs.tsukuba.ac.jp/~kitagawa/">Prof. Hiroyuki Kitagawa</a> in 2009, 2011 and 2015 respectively. 
+	      From 2011 to 2015, he was a researcher at <a href="http://www.ntt.co.jp/RD/e/">NTT labs</a>, and 
+	      he joined <a href="http://www.ccs.tsukuba.ac.jp/eng/">Center for Computational Sciences</a> at <a href="http://www.tsukuba.ac.jp/english/">University of Tsukuba</a> in Nov. 2015.
+	      From Nov. 2020, he is also a researcher of <a href="https://www.jst.go.jp/kisoken/presto/en/index.html">JST Presto</a>.
+	      His current main research interests include database systems, data engineering, data mining, and graph data management. 
+	    </p>
+	    <h4>Contact</h4>
+	    <p>
+	      <ul>
+		<li>Knowledge and Data Engineering Group &nbsp; <a href="http://www.kde.cs.tsukuba.ac.jp/index_en.html"><span class="glyphicon glyphicon-globe"></span></a></li>
+		<li>Address: Room 105, Center for Computational Sciences, Tennoudai 1-1-1, Tsukuba, Ibaraki 305-8573, Japan</li>
+		<li>E-mail: <img src="img/cs.jpg" class="img-responsive" style="height:2.5em" alt="cs"></li>
+	      </ul>
+	    </p>
+	  </div>
+	  <div class="col-sm-3 col-md-3 text-center">
+	    <img src="img/shion.jpg" class="img-responsive" alt="My picture">
+	    <p>Photographed at Venice in Sep. 2013</p>
+	  </div>
+	  <div class="col-sm-2 col-md-2">
+	  </div>
+	</div>
+      </div>
+    </section>
+    
+    <section>
+      <div class="container">
+	<div class="row">
+	  <h2>Publications</h2>
+	  <hr>
+	  You can also find my paper list from <a href="http://dblp.uni-trier.de/pers/hd/s/Shiokawa:Hiroaki">DBLP</a> and <a href="https://scholar.google.co.jp/citations?user=LqamR6YAAAAJ&hl=ja&oi=ao">Google Scholar</a>.	  
+	  <h4>Book Chapter</h4>
+	  <ol>
+	    <li><u>Hiroaki Shiokawa</u>, Makoto Onizuka, "Scalable Graph Clustering and its Applications," Encyclopedia of Social Network Analysis and Mining, 2nd edition, Springer, New York, May 24th, 2017. [<a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4614-7163-9_110185-1">url</a>]</li>
+	  </ol>
+
+	  <h4>Journal (selected)</h4>
+	  <span id="journallist"></span>
+
+	  <h4>International Conference</h4>
+	  <span id="conferencelist"></span>
+
+	  <h4>Invited Talk (Selected)</h4>
+	  <ul>
+	    <li><u>Hiroaki Shiokawa</u>, "Scaling Structural Graph Clustering for Billion-edge graphs," 2017 International Conference on Data Science, December 18th, 2017, Fudan University, Shanghai, China</li>
+	    <li><u>Hiroaki Shiokawa</u>, "SCAN++: Efficient Algorithm for Finding Clusters, Hubs and Outliers on Large-scale Graphs," ERATO Seminar, Jun 11th, 2015, National Institute of Informatics, Tokyo</li>
+	    <li>Makoto Onizuka, Yasuhiro Fujiwara, <u>Hiroaki Shiokawa</u>, "Efficient Graph Mining Algorithms and Distributed Query Optimization", British and Japanese BigData Workshop，February 6th, 2014, British embassy, Tokyo</li>
+	    <li><u>Hiroaki Shiokawa</u>, "Fast Algorithm for Modularity-based Graph Clustering," Northwest Database Society (NWDS) sponsored by Yahoo!, July 19th, 2013, University of Washington, Seattle</li>
+	  </ul>
+	  	  
+	</div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+	<div class="row">
+	  <h2>Professional Activities</h2>
+	  <hr>
+	  <h4>Members</h4>
+	  <ul>
+            <li>ACM (SIGMOD) (Professional Membership<!--, Member number: 7169264-->) since Dec. 2014</li>
+	    <li>AAAI (Regular Membership<!--, Member number: 59301-->) since Jan. 2016</li>
+	    <li>Database Society Japan (DBSJ) since Dec. 2008</li>
+	    <li>Information Processing Society of Japan (IPSJ) since Dec. 2015</li>
+	  </ul>
+	  <h4>Editors / Program Committees</h4>
+	  <ul>
+	    <li>(2021-Present) IEICE Transaction on Information and Systems, Associate Editor-in-Chief</li>
+	    <li>(2021-Present) IPSJ Journal of Information Processing (Transactions on Databases), Associate Editor</li>
+	    <li>(2021) The 26th International Conference on Database Systems for Advanced Applications (DASFAA 2021), Program Committee</li>
+	    <li>(2021) The 25th Pasific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021), Technical Program Committee</li>
+	    <li>(2021) The 35th AAAI Conference on Artificial Intelligence (AAAI-21), Program Committee</li>
+	    <li>(2020) The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI2020), Program Committee</li>
+	    <li>(2020) The 2nd International Workshop on Big Data, Cloud, and IoT Technologies for Smart Cities (IWBigDataCity 2020), Program Committee</li>
+	    <li>(2020) The 22nd IEEE International Conference on Cluster Computing (CLUSTER 2020), Technical Program Committee</li>
+	    <li>(2020) The 24th Pasific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020), Technical Program Committee</li>
+	    <li>(2020) The 34th AAAI Conference on Artificial Intelligence (AAAI-20), Program Committee</li>
+	    <li>(2019-2020) VLDB 2020 Proceedings Co-Chair</li>
+	    <li>(2019) The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2019), Program Committee</li>	    
+	    <li>(2019) The 28th International Joint Conference on Artificial Intelligence (IJCAI-19), Program Committee</li>
+	    <li>(2019) The International Workshop on Big Data, Cloud, and IoT Technologies for Smart Cities (IWBigDataCity 2019), Program Committee</li>
+	    <li>(2019) The 23rd Pasific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019), Technical Program Committee</li>
+	    <li>(2019) The 33rd AAAI Conference on Artificial Intelligence (AAAI-19), Program Committee</li>
+	    <li>(2019) The 6th IEEE International Conference on Big Data and Smart Computing (IEEE BigComp2019), Program Committee</li>
+	    <li>(2019) The 13th IEEE International Conference on Semantic Computing (IEEE ICSC 2019), Program Committee</li>
+	    <li>(2018-2020) IEICE Transaction on Information and Systems, Associate Editor</li>
+	    <li>(2018) The 27th International Joint Conference on Artificial Intelligence (IJCAI-18), Program Committee</li>
+	    <li>(2018) The 22nd Pasific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018), Technical Program Committee</li>
+	    <li>(2018) The 12th IEEE International Conference on Semantic Computing (IEEE ICSC 2018), Program Committee</li>
+	    <li>(2017) The 11th IEEE International Conference on Semantic Computing (IEEE ICSC 2017), Program Committee</li>
+	  </ul>
+	  <!--
+	  <h4>Reviewer</h4>
+	  <ul>
+	    <li>(2014-2019) IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
+	    <li>(2012-2018) International Conference on Database Systems for Advanced Application (DASFAA)</li>
+	    <li>(2018) World Wide Web Journal, Springer</li>
+	    <li>(2017) International Conference on Web Information Systems Engineering (WISE)</li>
+	    <li>(2016-2017) Journal of Database Society Japan (DBSJ)</li>
+	    <li>(2015) International Conference on Database and Expert Systems Applications (DEXA)</li>
+	    <li>(2014-2016) Proceedings of the Very Large Data Bases Endowment (PVLDB)</li>
+	    <li>(2011-2018) IEICE Transactions on Information & Systems</li>
+	  </ul>
+	  -->
+	</div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+	<div class="row">
+	  <h2>Teaching</h2>
+	  <hr>
+	  <h4>2021</h4>
+	  <h5><u>Cources for graduate students</u></h5>
+	  <ul>
+	    <li>01CH304 Data Engineering I, Department of Computer Science, Graduate School of SIE, University of Tsukuba</li>
+	  </ul>
+	  <h5><u>Cources for under graduate students</u></h5>
+	  <ul>
+	    <li>GA12201 Introduction to Information Science:Computation, University of Tsukuba</li>
+	    <li>GA15321 Calculus A, College of Information Science, University of Tsukuba</li>
+	    <li>GB30311 Database Systems A, College of Information Science, University of Tsukuba</li>
+	    <li>GB31611 Database Systems B, College of Information Science, University of Tsukuba</li>
+	    <li>GB31701 Information Retrieval, College of Information Science, University of Tsukuba</li>
+	    <li>GB36503 Computer Systems Laboratory B, College of Information Science, University of Tsukuba</li>
+	  </ul>
+	  
+	  <h4>2020</h4>
+	  <h5><u>Cources for graduate students</u></h5>
+	  <ul>
+	    <li>01CH304 Data Engineering I, Department of Computer Science, Graduate School of SIE, University of Tsukuba</li>
+	  </ul>
+	  <h5><u>Cources for under graduate students</u></h5>
+	  <ul>
+	    <li>GA12201 Introduction to Information Science:Computation, University of Tsukuba</li>
+	    <li>GA15321 Calculus A, College of Information Science, University of Tsukuba</li>
+	    <li>GB31601 Database Systems II, College of Information Science, University of Tsukuba</li>
+	    <li>GB36503 Computer Systems Laboratory B, College of Information Science, University of Tsukuba</li>
+	    <li>6120101 Computer Literacy, Schoold of Physical Education, Health and Sports Sciences, University of Tsukuba</li>
+	  </ul>
+
+	  <h4>2019</h4>
+	  <h5><u>Cources for graduate students</u></h5>
+	  <ul>
+	    <li>01CH304 Data Engineering I, Department of Computer Science, Graduate School of SIE, University of Tsukuba</li>
+	  </ul>
+	  <h5><u>Cources for under graduate students</u></h5>
+	  <ul>
+	    <li>GA12201 Introduction to Information Science:Computation, University of Tsukuba</li>
+	    <li>GA15321 Calculus A, College of Information Science, University of Tsukuba</li>
+	    <li>GB31601 Database Systems II, College of Information Science, University of Tsukuba</li>
+	    <li>GB36503 Computer Systems Laboratory B, College of Information Science, University of Tsukuba</li>
+	  </ul>
+
+	  <h4>2018</h4>
+	  <h5><u>Cources for graduate students</u></h5>
+	  <ul>
+	    <li>01CH304 Data Engineering I, Department of Computer Science, Graduate School of SIE, University of Tsukuba</li>
+	  </ul>
+	  <h5><u>Cources for under graduate students</u></h5>
+	  <ul>
+	    <li>1118402 Freshman Seminar, College of Information Science, University of Tsukuba</li>
+	    <li>GB10324 Analysis I, College of Information Science, University of Tsukuba</li>
+	    <li>GB31601 Database Systems II, College of Information Science, University of Tsukuba</li>
+	    <li>GB36503 Computer Systems Laboratory B, College of Information Science, University of Tsukuba</li>
+	    <li>6217103 Computer Education, College of Agro-Biological Resource Sciences, University of Tsukuba</li>
+	  </ul>
+	  <h4>2017</h4>
+	  <h5><u>Cources for graduate students</u></h5>
+	  <ul>
+	    <li>01CH001 Seminar in Computer Science, Department of Computer Science, Graduate school of SIE, University of Tsukuba</li>
+	  </ul>
+	  <h5><u>Cources for under graduate students</u></h5>
+	  <ul>
+	    <li>GB10324 Analysis I, College of Information Science, University of Tsukuba</li>
+	    <li>GB36503 Computer Systems Laboratory B, College of Information Science, University of Tsukuba</li>
+	    <li>6217103 Computer Education, College of Comparative Culture, University of Tsukuba</li>
+	  </ul>
+	  <h4>2016</h4>
+	  <h5><u>Cources for graduate students</u></h5>
+	  <ul>
+	    <li>01CH001 Seminar in Computer Science, Department of Computer Science, Graduate school of SIE, University of Tsukuba</li>
+	  </ul>
+	  <h5><u>Cources for under graduate students</u></h5>
+	  <ul>
+	    <li>GB10324 Analysis I, College of Information Science, University of Tsukuba</li>
+	    <li>GB36503 Computer Systems Laboratory B, College of Information Science, University of Tsukuba</li>
+	    <li>6202203 Computer Education, College of Comparative Culture, University of Tsukuba</li>
+	  </ul>
+	</div>
+      </div>
+    </section>
+
+    <sectoin>
+      <div class="container">
+	<div class="row">
+	  <div class="text-right">
+	    <hr>
+	    (Last update <span id="update"></span>)
+	    <p>
+	      <a href="http://info.flagcounter.com/3QEn"><img src="http://s03.flagcounter.com/count/3QEn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/f\
+lags_0/" alt="Flag Counter" border="0"></a>
+	    </p>
+	  </div>
+	</div>
+      </div>
+    </div>
+    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/papers.js"></script>
+    <script src="js/list_en.js"></script>
+    
+  </body>
+
+</html>
